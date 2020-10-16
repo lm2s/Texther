@@ -4,7 +4,7 @@
 
 This repository contains a modular Xcode project built using SwiftUI 2.0 and Composable Architecture with the [µfeatures](https://tuist.io/docs/architectures/microfeatures/) approach.
 
-[Tuist](https://tuist.io)
+[Tuist](https://tuist.io)  
 [Composable Architecture (TCA)](https://github.com/pointfreeco/swift-composable-architecture)
 
 ## Setup
