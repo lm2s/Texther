@@ -71,3 +71,4 @@ Packages
 xcuserdata
 DerivedData/
 *.xcodeproj
+.package.resolved
